@@ -1,6 +1,6 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Этот репозиторий создан для выполнения лабораторной работы №2. Лабораторная работа посвящена многофайловому программированию и автоматизации разработки с использованием утилиты make и GitHub Actions.
 
 # Usage
 
@@ -8,4 +8,4 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Для сборки проекта используется утилита make. В репозитории представлен пример Makefile. Для автоматизации сборки и тестирования используется GitHub Actions.
